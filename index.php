@@ -48,7 +48,7 @@
     </button>
     <div class="auth-footer">
       <span data-i18n="noAccount">Don't have an account?</span>
-      <a href="pages/register.php" data-i18n="register"> Register</a>
+      <a href="pages/register.php" data-i18n="register"> Register test</a>
     </div>
   </div>
 </div>
